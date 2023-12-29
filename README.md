@@ -12,6 +12,9 @@ Installation:
 Uses requests, pandas and yfinance. I will add a requirements.txt file soon but any level of install will work.
 
 Usage
+
+![Sample Image](forex pairs snippet.png)
+
 Provide examples or code snippets showing how to use your project. Explain any configurations or settings that might be necessary.
 Features
 List and describe the main features of your project.
