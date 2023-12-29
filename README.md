@@ -13,7 +13,7 @@ Uses requests, pandas and yfinance. I will add a requirements.txt file soon but 
 
 Usage
 
-![Sample Image](forex pairs snippet.png)
+![Sample Image](forex_pairs_snippet.png)
 
 Provide examples or code snippets showing how to use your project. Explain any configurations or settings that might be necessary.
 Features
