@@ -18,6 +18,9 @@ Uses requests, pandas and yfinance. I will add a requirements.txt file soon but 
 If you want to see more pairs feel free to ask or download and add the ones in you want. There is no need to change any code at the time
 of writing. Run each cell as you go and the two dataframes at the end will show you which trade pairs are trending up and the bottom one is trending down.
 
+## Output:
+![Sample Image](images/forex_helper_output.png)
+
 ## Features:
 Ease of use, mathematical certaintiy to accurately show the slope of a graph.
 
