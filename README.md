@@ -11,24 +11,18 @@ Installation:
 
 Uses requests, pandas and yfinance. I will add a requirements.txt file soon but any level of install will work.
 
-Usage
+Usage:
 
 ![Sample Image](forex_pairs_snippet.png)
 
-Provide examples or code snippets showing how to use your project. Explain any configurations or settings that might be necessary.
-Features
-List and describe the main features of your project.
-Contributing
-Guidelines for others who want to contribute to your project. Include information on how to report issues or submit pull requests.
-License
-Specify the license under which your project is distributed. This is important for others who want to use or contribute to your project.
-Additional Sections (Optional)
-You might include sections for FAQs, troubleshooting, acknowledgments, or contact information.
-Badges
-Adding badges for build status, code coverage, version, etc., can make your README visually appealing and informative.
-Visuals
-Screenshots, GIFs, or diagrams can make your README more engaging and understandable.
-Examples
-Include some real-world examples or use cases of your project in action.
-Conclusion
-A closing statement, thanking users for their interest and possibly inviting them to contribute or contact you for further information.
+If you want to see more pairs feel free to ask or download and add the ones in you want. There is no need to change any code at the time
+of writing. Run each cell as you go and the two dataframes at the end will show you which trade pairs are trending up and the bottom one is trending down.
+
+Features:
+Ease of use, mathematical certaintiy to accurately show the slope of a graph.
+
+Contributing:
+If there are any issues please submit a request and i will have a look for you.
+
+License:
+Free to use and modify, just credit me if im your orignal source
