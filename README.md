@@ -13,7 +13,7 @@ Uses requests, pandas and yfinance. I will add a requirements.txt file soon but 
 
 ## Usage:
 
-![Sample Image](forex_pairs_snippet.png)
+![Sample Image](images/forex_pairs_snippet.png)
 
 If you want to see more pairs feel free to ask or download and add the ones in you want. There is no need to change any code at the time
 of writing. Run each cell as you go and the two dataframes at the end will show you which trade pairs are trending up and the bottom one is trending down.
